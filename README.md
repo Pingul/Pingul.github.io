@@ -3,7 +3,8 @@ Albot.Online User Guide
 1. [Get started tutorial](#tutorial)
 2. Games
     1. [Connect 4](Games/Connect4)
-    2. [Battleships](Games/Battleships)
+    2. [Othello](Games/Othello)
+    3. [Battleships](Games/Battleships)
 
 # Tutorial
 Albot.Online lets you build your own AI bot to play and develop new algorithms. 
