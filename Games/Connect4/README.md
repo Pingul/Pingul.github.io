@@ -19,7 +19,7 @@ Note: This means that whether you are currently playing as Red or Yellow, your p
 
 The board matrix will be sent to you in a plain text message containing 42 numbers all separated by one space. These numbers will be written column by column as you can see below.
 
-<img src="../../fig/C4_indices.jpg" alt="Connect 4 indices" style="max-width: 200px;"/>
+
 
 As an example, the string `"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 1 -1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"` yields the following board (assuming you are yellow; for red all `1`s and `-1`s would be interchanged):
 
