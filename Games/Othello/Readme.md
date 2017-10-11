@@ -29,7 +29,7 @@ The board matrix will be sent to you in a plain text message containing 64 numbe
  56|57|58|59|60|61|62|63|
 ```
 
-As an example, the string `"0 0 0 0 0 0 0 0 || 0 0 0 0 0 0 0 0 || 0 0 0 0 0 0 0 0 || 0 0 0 -1 1 0 0 0 || 0 0 0 1 -1 0 0 0 || 0 0 0 0 0 0 0 0 || 0 0 0 0 0 0 0 0 || 0 0 0 0 0 0 0 0 ||"` 
+As an example, the string `"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"` 
 yields the following board (assuming you are white; for black all `1`s and `-1`s would be interchanged):
 
 <img src="../../fig/OthelloBoard.jpg" alt="Othello example" style="max-width: 200px;"/>
