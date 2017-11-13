@@ -17,7 +17,7 @@ This message will be sent to your local Bot containing the current board positio
 - -1 = Opponent playing piece
 Note: This means that whether you are currently playing as Red or Yellow, your pieces will always be 1 and your opponents -1. 
 
-The board matrix will be sent to you in a plain text message containing 42 numbers all separated by one space. These numbers will be written column by column as you can see below.
+The board matrix will be sent to you in a plain text message containing 42 numbers all separated by one space. These numbers will be written row by row as you can see below.
 
 <img src="../../fig/C4_indices.jpg" alt="Connect 4 indices" style="max-width: 200px;"/>
 
