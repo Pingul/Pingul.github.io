@@ -9,7 +9,7 @@ slidesurl: 'http://pingul.github.io/files/Publication-The_Way_Of_Cloth_And_Hair/
 citation: 'Xiao Zhai, Eston Schweickart, Nikolay Ilinov, Joel Wretborn, Alexey Stomakhin, John Homer, Jefri Haryono, and Julian Butler. 2023. &quot;Avatar: The Way of Hair, Cloth, and Coupled Simulation.&quot; In ACM SIGGRAPH 2023 Talks, 1–2. SIGGRAPH ’23 61. New York, NY, USA: Association for Computing Machinery. https://doi.org/10.1145/3587421.3595408.'
 ---
 
-![Avatar: The Way of Hair, Cloth, and Coupled Simulation](/files/Publication-The_Way_Of_Cloth_And_Hair/image.jpeg)
+![Avatar: The Way of Hair, Cloth, and Coupled Simulation](/files/Publication-The_Way_Of_Cloth_And_Hair/image2.jpeg)
 
 Abstract 
 --------
