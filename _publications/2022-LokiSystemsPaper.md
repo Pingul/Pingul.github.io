@@ -1,5 +1,5 @@
 ---
-title: 'Underwater bubbles and coupling'
+title: 'Loki: A Unified Multiphysics Simulation Framework for Production'
 collection: publications
 permalink: /publication/2020-UnderwaterBubbles
 date: 2020-08-17
