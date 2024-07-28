@@ -3,7 +3,7 @@ title: 'Guided Bubbles and Wet Foam for Realistic Whitewater Simulation'
 collection: publications
 permalink: /publication/2022-GuidedBubblesAndWetFoam
 date: 2022-07-01
-venue: 'GraphicsCM Transaction on Graphics'
+venue: 'ACM Transaction on Graphics'
 paperurl: 'http://pingul.github.io/files/Publication-Guided_Bubbles_And_Wet_Foam/Guided_Bubbles_And_Wet_Foam.pdf'
 citation: 'Joel Wretborn, Sean Flynn, and Alexey Stomakhin. 2022. &quot;Guided Bubbles and Wet Foam for Realistic Whitewater Simulation.&quot; ACM Transactions on Graphics. https://doi.org/10.1145/3528223.3530059.'
 ---

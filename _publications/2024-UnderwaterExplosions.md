@@ -3,7 +3,7 @@ title: 'Art Directable Underwater Explosion Simulation'
 collection: publications
 permalink: /publication/2024-UnderwaterExplosions
 date: 2024-07-27
-venue: 'ACM SIGGRAPH 2024 Talks'
+venue: 'ACM SIGGRAPH Talks'
 paperurl: 'http://pingul.github.io/files/Publication-Underwater_Explosions/Underwater_Explosions.pdf'
 citation: 'Sean Flynn, Alexey Stomakhin, Joel Wretborn, and Daniel White. 2024. “Art Directable Underwater Explosion Simulation.” In ACM SIGGRAPH 2024 Talks, 1–2. SIGGRAPH ’24 55. New York, NY, USA: Association for Computing Machinery. https://doi.org/10.1145/3641233.3664314.'
 ---
