@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Joel Wretborn"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #""
   location         : "Stockholm"
   employer         : "Weta FX / University of Waterloo"
   uri              : # URL
