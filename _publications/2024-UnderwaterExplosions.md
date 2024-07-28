@@ -1,16 +1,16 @@
 ---
-title: 'Underwater bubbles and coupling'
+title: 'Art Directable Underwater Explosion Simulation'
 collection: publications
-permalink: /publication/2020-UnderwaterBubbles
-date: 2020-08-17
-venue: 'SIGGRAPH Talks'
-paperurl: 'http://pingul.github.io/files/Publication-Underwater_Bubbles_And_Coupling/Publication-Underwater_Bubbles_and_Coupling.pdf'
-citation: 'Alexey Stomakhin, Joel Wretborn, Kevin Blom, and Gilles Daviet (2020) &quot;Underwater Bubbles and Coupling.&quot; Special Interest Group on Computer Graphics and Interactive Techniques Conference Talks. https://doi.org/10.1145/3388767.3407390.'
+permalink: /publication/2024-UnderwaterExplosions
+date: 2024-07-27
+venue: 'ACM SIGGRAPH 2024 Talks'
+paperurl: 'http://pingul.github.io/files/Publication-Underwater_Explosions/Underwater_Explosions.pdf'
+citation: 'Sean Flynn, Alexey Stomakhin, Joel Wretborn, and Daniel White. 2024. “Art Directable Underwater Explosion Simulation.” In ACM SIGGRAPH 2024 Talks, 1–2. SIGGRAPH ’24 55. New York, NY, USA: Association for Computing Machinery. https://doi.org/10.1145/3641233.3664314.'
 ---
 
-![Underwater bubbles and coupling](/files/Publication-Underwater_Bubbles_And_Coupling/bubbles.jpg)
+![Underwater explosions](/files/Publication-Underwater_Explosions/image.jpeg)
 
 Abstract 
 --------
-We present an approach to simulating underwater bubbles. Our method is sparse in that it only simulates a thin band of water around the region of interest allowing us to achieve high resolu- tions in turbulent scenarios. We use a hybrid bubble representation consisting of two parts. The hero counterpart utilizes an incompressible two-phase Navier-Stokes solve on an Eulerian grid with air phase also represented via FLIP/APIC particles to facilitate volume conservation and accurate interface tracking. The diffuse counter-part captures sub-grid bubble motion not “seen” by the Eulerian grid. We represent those as particles and develop a novel scheme for coupling them with the bulk fluid. The coupling scheme is not limited to sub-grid bubbles and may be applied to other thin/porous objects such as sand, hair, and cloth.
+We present a technique for simulating underwater explosions using an animated volume control method that allows us to visually approximate the expansion and contraction of underwater explosions measured in existing literature. The foundation of this technique is a FLIP/APIC bubble simulation coupled with a surrounding sparsely allocated volumetric water field in a multi-phase solve. We achieve the desired compression and expansion effects by animating the target bubbles volume via adjusting the equilibrium FLIP particle counts per voxel. Adjusting bubble density with volume and adding surface tension improves the match to real world references. Because our method can be animated to any timing desired by the artist, it is more practical for achieving art-direction.
 
