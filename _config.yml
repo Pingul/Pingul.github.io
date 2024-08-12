@@ -12,7 +12,7 @@ title                    : "Joel Wretborn"
 title_separator          : "-"
 name                     : &name "Joel Wretborn"
 description              : &description "personal description"
-url                      : https://pingul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://joel.wbn.se # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pingul/pingul.github.io"
 

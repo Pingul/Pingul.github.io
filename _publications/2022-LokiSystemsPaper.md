@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-Loki
 date: 2022-07-01
 venue: 'ACM Transactions on Graphics'
-paperurl: 'http://pingul.github.io/files/Publication-Loki/Loki.pdf'
+paperurl: 'https://joel.wbn.se/files/Publication-Loki/Loki.pdf'
 citation: 'Steve Lesser, Alexey Stomakhin, Gilles Daviet, Joel Wretborn, John Edholm, Noh-Hoon Lee, Eston Schweickart, Xiao Zhai, Sean Flynn, and Andrew Moffat. 2022. &quot;Loki: A Unified Multiphysics Simulation Framework for Production.&quot; ACM Transactions on Graphics, 50, 41 (4): 1–20. https://doi.org/10.1145/3528223.3530058.'
 ---
 

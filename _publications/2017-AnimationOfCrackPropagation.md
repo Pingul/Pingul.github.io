@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-AnimationOfCrackPropagation
 date: 2017-10-25
 venue: 'Computers & Graphics'
-paperurl: 'http://pingul.github.io/files/Publication-Animation_Of_Crack_Propagation/Animation_Of_Crack_Propagation.pdf'
+paperurl: 'https://joel.wbn.se/files/Publication-Animation_Of_Crack_Propagation/Animation_Of_Crack_Propagation.pdf'
 citation: 'Joel Wretborn, Rickard Armiento, Ken Museth. 2017. &quot;Animation of Crack Propagation by Means of an Extended Multi-Body Solver for the Material Point Method.&quot; Computers & Graphics 69 (December): 131–39. https://doi.org/10.1016/j.cag.2017.10.005.'
 ---
 

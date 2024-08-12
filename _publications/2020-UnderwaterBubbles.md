@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-UnderwaterBubbles
 date: 2020-08-17
 venue: 'ACM SIGGRAPH Talks'
-paperurl: 'http://pingul.github.io/files/Publication-Underwater_Bubbles_And_Coupling/Publication-Underwater_Bubbles_and_Coupling.pdf'
+paperurl: 'https://joel.wbn.se/files/Publication-Underwater_Bubbles_And_Coupling/Publication-Underwater_Bubbles_and_Coupling.pdf'
 citation: 'Alexey Stomakhin, Joel Wretborn, Kevin Blom, and Gilles Daviet. 2020. &quot;Underwater Bubbles and Coupling.&quot; Special Interest Group on Computer Graphics and Interactive Techniques Conference Talks. https://doi.org/10.1145/3388767.3407390.'
 ---
 
