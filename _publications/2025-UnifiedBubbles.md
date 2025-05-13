@@ -8,7 +8,7 @@ paperurl: 'https://joel.wbn.se/files/Publication-Unified_Bubbles/Unified-bubbles
 citation: 'Wretborn, Joel, Alexey Stomakhin, and Christopher Batty. 2025. “A Unified Multi‐scale Method for Simulating Immersed Bubbles.” Computer Graphics Forum: Journal of the European Association for Computer Graphics, April. https://doi.org/10.1111/cgf.70033.'
 ---
 
-![Unified bubbles](/files/Publication-Unified_Bubbles/bubble-barrel-closeup-combined.png)
+![Unified bubbles](/files/Publication-Unified_Bubbles/bubble-barrel-closeup-combined.jpeg)
 
 Abstract 
 --------
